@@ -1,0 +1,3 @@
+interface:
+  display_name: "Algorithm Reverse Engineer"
+  short_description: "追踪算法实现，重建语言无关流程、数学与伪代码，并以代码证据核验"
